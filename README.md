@@ -36,7 +36,7 @@ Ali Tehran
 Sara Shiraz  
 Mehdi Isfahan
 ```
-##🚀 Usage
+## 🚀 Usage
 1. colne the repo:
 ```bash
 git clone https://github.com/yourusername/awk-symphony.git
