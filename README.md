@@ -22,14 +22,14 @@ It’s a minimalist toolkit for learning, experimenting, and orchestrating struc
 
 ## 🧪 Sample Command
 
-###Input
+### Input
 
 ```code
 Ali,25,Tehran
 Sara,30,Shiraz
 Mehdi,22,Isfahan
 ```
-###output
+### output
 
 ```code
 Ali Tehran  
